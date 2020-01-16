@@ -1,0 +1,12 @@
+﻿  Reconstructor.cpp
+src\controllers\Reconstructor.cpp(384): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\controllers\Reconstructor.cpp(401): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+src\controllers\Reconstructor.cpp(595): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+src\controllers\Reconstructor.cpp(667): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  163 of 2437 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VoxelReconstruction.vcxproj -> D:\Programs\Repos\INFOMCV_P3\x64\Release\VoxelReconstruction.exe
+  VoxelReconstruction.vcxproj -> D:\Programs\Repos\INFOMCV_P3\x64\Release\VoxelReconstruction.pdb (Full PDB)
